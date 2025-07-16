@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>EXVEL</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <style>
+        body { 
+        font-family: Arial, sans-serif; 
+        margin:0; 
+        padding:0; 
+        line-height:2; 
+        background-image: url(https://ik.imagekit.io/dmrehbpdvz/AHMEDABAD.png?updatedAt=1751978603520);
+    }
+        header { 
+        opacity: 0.4;
+        background:beige; 
+        color:#dfc636; 
+        padding: 5px; 
+        text-align:center; 
+        vertical-align: middle;
+        position: fixed;
+        width: 100%;
+    }
+        table { 
+        color:#dfc636; 
+        padding: 5px;
+        margin: 1px; 
+        text-decoration:none;
+        width:100%;
+        height: 10px;
+    }
+        a {
+        text-decoration: none;
+        font-family: 'Optima';
+        font-size: x-large;
+        color: grey;
+        opacity: 1;
+    }
+        div {
+        padding: 20px;
+        margin: 10px;
+        background-color: white;
+        text-align: center;
+        font-size: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+        p {
+        text-align: left;
+        color: black;
+        font-size: 25px;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+        pre {
+        text-align: left;
+        margin-left: 90px;
+    }
+        h2 {
+        text-align: center;
+        font-weight: bolder;
+        font-size: 60px;
+        color: black;
+    }
+        button {
+        background-color: #dfc636;
+        margin: 30px;
+        padding: 10px 30px
+    }
+  </style>
+</head>
+<body>
+    <header>
+    <table rules="cols">
+        <tr>
+            <td width="15%"><a href="file:///Users/darshilrajawat/Documents/CODES/HTML/WEBSITE/ahm.html"><img src="file:///Users/darshilrajawat/Downloads/Screenshot2025-07-08at9.36.24PM.png" height="55" width="150"></a></td>
+            <td width="21.25%"><a href="#Heritage">Heritage</a></td>
+            <td width="21.25%"><a href="#religion">Sacred Spots</a></td>
+            <td width="21.25%"><a href="#food">Food & Culture</a></td>
+            <td width="21.25%"><a href="#nature"></a></td>
+            </td>
+        </tr>
+    </table>
+    </header>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <div>
+        <p>
+            <h2><a name="Heritage"></a>A world heritage city in a modern metropolis</a></h2>
+        </p>
+        <p>
+            <img src="https://images.pexels.com/photos/672642/pexels-photo-672642.jpeg?_gl=1*18sy990*_ga*NzI1MjMwNTc4LjE3NTIwMDQxODE.*_ga_8JE65Q40S6*czE3NTIwMDQxODAkbzEkZzEkdDE3NTIwMDQxODgkajUyJGwwJGgw" align="right" height="700" width="500">
+            <pre>
+It’s the land of the Mahatma, the nerve centre of India’s independence movement
+against British rule. It is India’s first UNESCO World Heritage City, with a 
+living heritage going back a thousand years. And yet, it is undoubtedly amodern
+metropolis – a cosmopolitan hub of the new India.<b> WELCOME TO AHMEDABAD!</b>
+
+Ahmedabad has a special relationship with Mahatma Gandhi, for it was here that 
+Mohandas Karamchand Gandhi set up his ashram on the banks of Sabarmati and
+became the leader we know as "Bapu". The city proudly blends its ancient heritage
+with modernity. It is divided into two distinct sections by the Sabarmati River.
+On the eastern bank stands its quaint old quarter, the Walled City marked with a
+10-kilometer fort wall, ancient gates, winding lanes and ‘Pols’ – ancient community
+-based neighbourhoods throbbing with tradition and culture. On the western side
+is the sprawling new town with educational institutions, multinational offices,
+multiplexes and business districts and excellent urban planning.
+
+The people of Ahmedabad navigate seamlessly between historic architecture and
+technology hubs, street bazaars and the latest malls, street food and international
+cuisine, even hard-nosed discussions on business strategy and discourses on
+Gandhian philosophy. What is truly remarkable about this city is the reverence
+for the past with a simultaneous vision for the future.
+            </pre>
+    <button>Read More</button>
+    </p>
+    </div>
+</body>
+</html>
